@@ -1,6 +1,6 @@
 # Tên Dự Án
 
-![Ảnh hoặc biểu tượng](link/to/image.png)
+![Ảnh hoặc biểu tượng]([link/to/image.png](https://www.youtube.com/shorts/kTc38kje_yg))
 
 Mô tả ngắn về dự án của bạn và mục tiêu của nó.
 
