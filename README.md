@@ -2,15 +2,15 @@
 - Carry out the project to enhance experience with the STM32F405RGT6 microcontroller and its peripherals: Timer Trigger, DMA, and DAC. Although this is a school assignment, the level of focus is quite high.
 - Demo Video: https://www.youtube.com/shorts/kTc38kje_yg
 
-## Tính năng chính
+## Main features
 
 - Convert 8-bit PCM audio to an 8-bit audio data stream.
 - Implement a timer trigger based on the audio rate.
 - Utilize DMA (Direct Memory Access) from Memory to Peripheral to transmit audio data to the DAC (Digital-to-- Analog Converter).
 
-## Hướng dẫn cài đặt
+## Installation Guide
 
-Hướng dẫn cài đặt và sử dụng dự án của bạn.
+Use STM32CubeMX to open the project (Music_DAC).
 
 ## Ví dụ
 
